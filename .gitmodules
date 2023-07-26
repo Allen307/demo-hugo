@@ -1,0 +1,15 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = git@github.com:theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/friend"]
+	path = themes/friend
+	url = git@github.com:panr/hugo-theme-hello-friend.git
+[submodule "themes/docsy"]
+	path = themes/docsy
+	url = git@github.com:google/docsy.git
+[submodule "themes/book"]
+	path = themes/book
+	url = git@github.com:alex-shpak/hugo-book.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = git@github.com:panr/hugo-theme-terminal.git
